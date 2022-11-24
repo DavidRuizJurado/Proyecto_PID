@@ -5,7 +5,7 @@ https://colab.research.google.com/drive/10diA8xk8HXb3wVrvhowk7pPXjpIcRi3D?usp=sh
 Memoria: https://www.overleaf.com/7658489587hytgtmqjknnz
 
 
-Planificacion 40h -> considerar exposicion y su preparacion. para entregar el miercoles 30 junto con planteamiento teorico.
+Planificacion 60h -> considerar exposicion y su preparacion. para entregar el miercoles 30 junto con planteamiento teorico.
 
 Planifcación: Semana 21Nov -> Continuar implementación y experimentaciñon (Actual)
               Semana 28NOV -> Terminar experimentación y analizar resiltados
